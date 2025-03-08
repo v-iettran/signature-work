@@ -1,0 +1,184 @@
+district,last_cancer_screening,current_cancer,have_children,gender,weight,height,age,red_meat_weekly,veg_weekly,alc_weekly,exercise_weekly,sleep_hr,fam_hr,neighbor_hr,cancer_his,have_cancer_before,chronic_disease,chronic_dis_list,breast_q1,breast_q2,breast_q3,breast_q4,breast_q5,liver_q1,liver_q2,liver_q3,liver_q4,liver_q5
+District 5,A year ago,No,Yes,Female,56,160,30,2,8,3,6,9,40,4,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Tan District,A year ago,No,Yes,Male,63,165,40,3,5,2,3,6,18,3,Yes,No,Yes,"(diabetes, blood pressure)",No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+District 3,A year ago,No,Yes,Female,60,162,31,3,14,3,2,7,28,2,No,No,Yes,(tonsillitis),No,No,No,No,No,No,No,No,No,No
+Tan Binh District,A year ago,No,Yes,Male,72,175,30,4,6,1,3,6,48,1,No,No,No,,No,No,No,No,No,No,Yes,No,No,Yes
+District 1,A year ago,No,Yes,Male,63,165,40,3,5,2,3,7,15,2,Yes,No,Yes,"(diabetes, blood pressure)",Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes
+District 9,6 months ago,No,Yes,Female,50,160,38,1,6,1,7,8,2,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 2,A year ago,No,Yes,Female,60,165,41,5,10,0,7,7,5,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 5,6 months ago,No,Yes,Male,63,162,35,3,5,1,6,6,24,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Phu Nhuan District,6 months ago,No,Yes,Female,55,158,29,2,7,1,7,7,14,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Tan Binh District,A year ago,No,Yes,Male,65,175,35,2,7,2,7,8,20,2,Yes,No,Yes,(gastric ulcer),No,No,No,No,No,No,Yes,Yes,No,Yes
+District 4,A year ago,No,Yes,Female,49,165,40,5,7,2,3,7,8,1,Not sure,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 1,A year ago,No,No,Female,46,160,29,2,3,0,1,8,3,0,Yes,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 7,A year ago,No,Yes,Male,68,170,37,6,14,2,3,7,10,0,Yes,No,No,,No,No,No,No,No,No,No,No,No,No
+District 3,A year ago,No,Yes,Male,56,168,41,2,14,1,5,7,18,2,No,No,No,,No,No,No,No,No,No,Yes,No,No,Yes
+District 1,A year ago,No,Yes,Female,49,1.55,30,3,7,2,3,7,35,3,No,No,Yes,(stomach),No,No,No,No,No,No,No,No,No,No
+District 11,6 months ago,No,No,Female,50,155,24,2,2,0,2,8,3,0,No,No,No,,No,Yes,No,No,Yes,No,No,No,No,Yes
+District 3,6 months ago,No,No,Male,86,179,26,4,7,1,3,8,5,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 7,6 months ago,No,Yes,Female,54,155,32,5,7,1,4,8,24,5,Yes,No,No,,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes
+Tan Binh District,6 months ago,No,Yes,Female,65,160,30,3,5,1,7,6,77,7,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 6,6 months ago,No,Yes,Male,73,173,35,4,7,2,7,9,30,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 12,6 months ago,No,Yes,Male,70,168,25,6,7,4,3,7,1,1,Yes,Yes,Yes,(hepatitis B),Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+District 1,6 months ago,No,Yes,Female,50,167,36,4,14,2,7,6,15,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Tan Binh District,6 months ago,Yes,Yes,Male,60,175,35,3,6,4,4,8,10,2,Yes,No,Yes,(gastritis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+District 5,A year ago,No,Yes,Female,58,164,40,4,6,0,4,7,48,2,No,No,Yes,(food allergy),No,No,No,No,No,No,No,No,No,No
+Go Vap District,A year ago,No,Yes,Male,52,153,68,3,6,2,6,6,30,4,No,No,Yes,"(high blood pressure, blood fat, joint pain)",No,No,Yes,No,No,No,No,No,No,Yes
+District 4,6 months ago,No,Yes,Male,80,179,44,5,12,10,5,7,10,5,No,No,No,,No,Yes,No,No,No,No,Yes,No,No,Yes
+District 7,6 months ago,No,Yes,Female,55,155,32,7,7,2,5,8,14,1,Yes,Yes,Yes,(sore throat),Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,A year ago,No,No,Male,69,165,32,3,5,1,6,6,3,1,No,No,Yes,(allergy),No,No,No,No,No,No,No,No,No,Yes
+Binh Thanh District,6 months ago,No,Yes,Female,45,156,27,4,3,1,1,7,5,0,Not sure,No,Yes,(sinusitis),Yes,Yes,No,No,Yes,No,No,No,No,Yes
+Tan Binh District,6 months ago,No,Yes,Female,60,160,30,4,6,1,7,6,42,7,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+Tan Binh District,A year ago,No,Yes,Female,48,155,38,2,3,1,3,7,12,1,No,No,Yes,(herniated disc),Yes,No,No,No,Yes,Yes,No,No,No,Yes
+Binh Tan District,6 months ago,No,Yes,Male,71,173,45,4,6,2,7,7,4,2,No,No,No,,No,No,No,No,No,No,No,Yes,No,Yes
+Binh Thanh District,6 months ago,No,Yes,Male,42,152,42,1,6,1,7,7,30,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 4,6 months ago,No,Yes,Male,80,180,44,10,10,10,5,7,10,7,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Tan Binh District,6 months ago,No,Yes,Male,62,164,40,2,6,1,7,8,5,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Phu Nhuan District,A year ago,No,Yes,Male,64,167,49,3,7,1,6,8,4,3,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 8,A year ago,No,No,Male,70,175,21,3,3,0,5,6,140,0,No,No,Yes,(tumor in right arm),Yes,No,No,No,No,No,No,No,No,No
+Thu Duc District,6 months ago,No,No,Male,64,160,27,4,3,1,7,8,4,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 5,6 months ago,No,Yes,Female,68,1.58,38,2,4,0,7,8,3,1,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 7,6 months ago,No,Yes,Female,62,153,45,5,7,2,6,6,35,7,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 12,A year ago,No,Yes,Female,69,163,44,1,7,0,2,8,40,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 10,A year ago,No,Yes,Female,46,156,31,4,6,1,7,8,3,1,No,No,No,,No,Yes,No,No,No,Yes,No,No,Yes,Yes
+District 4,A year ago,No,Yes,Male,76,179,44,10,10,8,5,7,10,5,Yes,No,No,,No,No,No,No,No,No,No,No,No,No
+Thu Duc District,6 months ago,No,Yes,Male,70,170,31,4,6,2,6,8,20,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Tan Phu District,A year ago,No,Yes,Male,60,172,20,10,12,2,3,6,20,5,No,Yes,No,,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes
+District 6,6 months ago,No,Yes,Male,68,173,36,3,7,1,2,6,20,2,Yes,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Tan District,A year ago,Yes,No,Female,70,160,27,2,2,2,2,2,2,2,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+District 12,6 months ago,No,Yes,Female,68,163,44,1,7,0,2,7,40,0,Not sure,No,Not sure,,No,No,No,No,No,No,No,No,No,No
+Tan Binh District,6 months ago,No,No,Female,60,152,22,2,5,0,1,8,3,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Tan District,A year ago,No,Yes,Male,67,166,59,2,6,1,0,8,48,0,Yes,No,No,,No,No,No,No,No,No,No,No,No,Yes
+Binh Tan District,A year ago,No,Yes,Male,67,166,59,2,6,2,0,8,48,0,Yes,No,No,,No,No,No,No,No,No,No,No,No,Yes
+Thu Duc District,6 months ago,Yes,Yes,Female,48,153,35,3,7,2,7,8,4,3,Yes,Yes,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Thu Duc District,A year ago,No,No,Female,52,150,27,4,7,1,3,7,8,2,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+Binh Thanh District,6 months ago,No,No,Female,54,157,24,4,7,1,3,7,3,0,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 7,6 months ago,No,Yes,Female,55,165,34,5,18,4,7,7,25,7,No,No,No,,No,No,No,No,No,No,No,No,Yes,Yes
+Binh Thanh District,A year ago,No,Yes,Male,67,165,42,2,7,1,5,7,24,0,Yes,No,Yes,(allergic rhinitis),No,No,No,No,No,No,No,No,No,No
+District 10,A year ago,No,No,Female,47,155,24,4,6,0,2,7,3,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Go Vap District,A year ago,No,No,Female,50,150,25,6,18,1,5,8,4,1,Yes,No,Yes,"(vestibular disorders, sinusitis)",Yes,No,Yes,No,No,No,No,No,Yes,Yes
+Tan Binh District,6 months ago,No,No,Female,52,163,22,4,7,0,6,8,4,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Tan District,A year ago,No,No,Male,78,180,29,5,6,1,3,7,6,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Thanh District,A year ago,No,Yes,Female,55,158,40,3,7,0,7,7,21,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Tan District,6 months ago,No,Yes,Male,62,162,27,2,4,1,4,7,20,5,No,No,Yes,(allergy),No,No,Yes,No,No,No,No,Yes,No,Yes
+District 12,A year ago,No,No,Female,90,170,23,3,20,2,3,6,2,2,No,No,No,,No,Yes,Yes,No,No,No,No,No,No,Yes
+Thu Duc District,6 months ago,No,No,Female,50,165,27,4,15,2,1,6,4,1,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+District 8,A year ago,No,Yes,Female,54,157,44,2,7,0,2,9,12,2,No,No,Yes,"(thyroid, tonsillitis)",No,No,No,No,No,No,No,No,No,No
+District 12,A year ago,No,Yes,Female,48,159,29,7,7,0,0,6,24,0,No,No,No,,No,No,No,No,No,No,No,No,No,Yes
+Binh Tan District,6 months ago,No,No,Male,60,168,30,10,15,1,6,7,3,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Thu Duc District,A year ago,No,Yes,Female,55,156,35,3,8,0,6,7,30,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 11,6 months ago,No,Yes,Female,56,160,40,2,7,1,7,8,25,4,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Tan District,A year ago,No,Yes,Female,66,161,38,7,14,1,2,7,14,3,Yes,No,Yes,"(hemorrhoids, prostatitis, respiratory)",Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Go Vap District,6 months ago,No,Yes,Female,54,157,36,2,7,0,7,7,28,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 7,A year ago,No,Yes,Female,56,155,30,7,10,1,5,7,42,1,No,No,No,,Yes,No,No,No,No,No,No,Yes,No,No
+Thu Duc District,6 months ago,No,Yes,Male,78,173,45,4,7,2,2,6,30,3,No,Yes,Yes,(sinusitis),No,No,No,No,No,No,No,No,No,Yes
+District 6,6 months ago,No,No,Male,72,170,38,8,20,1,7,6,4,1,No,No,Yes,"(sinusitis, allergic rhinitis)",No,No,No,No,No,No,No,No,No,No
+Tan Binh District,6 months ago,No,No,Female,50,160,37,3,7,1,1,7,40,1,No,No,Not sure,,Yes,No,No,No,No,No,No,No,No,No
+Tan Phu District,6 months ago,Yes,Yes,Male,73,163,39,11,13,3,3,6.5,4,4,Yes,No,Yes,"(keratitis, stomach ache)",Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Tan Binh District,A year ago,No,Yes,Female,53,159,36,3,8,0,6,8,32,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 6,6 months ago,No,Yes,Male,65,170,29,3,7,1,7,8,40,5,No,No,Yes,(sinusitis),No,No,No,No,No,No,Yes,No,No,Yes
+Binh Tan District,6 months ago,Yes,Yes,Male,70,164,40,8,15,3,1,7,5,1,Yes,No,Yes,"(stomach, urinary, respiratory)",Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+District 6,6 months ago,Yes,No,Male,64,173,24,4,7,2,7,8,15,3,Yes,Yes,No,,No,No,No,No,No,No,No,No,No,Yes
+Binh Thanh District,A year ago,Yes,Yes,Female,45,158,28,5,7,3,2,9,14,7,Yes,Yes,No,,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+District 8,6 months ago,Yes,Yes,Female,50,165,38,1,7,2,3,5,28,5,No,Yes,Yes,(insomnia),Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+Binh Thanh District,A year ago,Yes,Yes,Female,45,158,28,4,6,2,2,9,14,7,Yes,Yes,Yes,(cancer),Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+District 11,A year ago,Yes,Yes,Female,43,158,59,3,6,0,5,7,40,5,No,Yes,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+Tan Binh District,6 months ago,Yes,Yes,Female,42,152,47,2,7,0,7,9,21,3,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+District 6,6 months ago,Yes,Yes,Female,44,154,40,2,5,0,4,8,20,3,Yes,Yes,Yes,(diabetes),Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes
+Binh Thanh District,A year ago,Yes,No,Female,48,159,39,3,10,3,5,10,21,2,Not sure,Yes,Yes,(psoriasis),Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+Phu Nhuan District,6 months ago,Yes,Yes,Female,45,154,46,2,3,0,2,7,0,0,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+District 6,A year ago,Yes,No,Male,65,171,29,2,7,1,6,7,21,10,Yes,Yes,No,,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes
+District 5,6 months ago,Yes,No,Male,56,165,28,2,15,2,5,7,8,3,No,No,No,,Yes,No,No,No,Yes,No,Yes,No,No,Yes
+District 5,A year ago,Yes,No,Male,62,167,27,4,12,2,8,8,15,3,No,No,No,,No,Yes,No,No,Yes,No,No,No,Yes,No
+Phu Nhuan District,A year ago,Yes,Yes,Female,45,158,28,2,5,1,4,9,14,5,No,Yes,Yes,(arthritis),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,6 months ago,No,Yes,Male,65,173,36,5,7,1,7,8,75,5,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 5,A year ago,No,Yes,Female,53,164,36,5,12,3,7,7,45,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 10,A year ago,No,Yes,Male,62,158,38,5,7,1,7,50,24,5,Yes,No,No,,No,No,No,No,Yes,No,No,Yes,No,Yes
+Thu Duc District,6 months ago,No,Yes,Male,76,173,45,3,12,2,2,6,30,3,No,No,Yes,"(sinusitis, arthritis)",No,No,No,No,No,No,No,No,No,Yes
+Thu Duc District,6 months ago,No,Yes,Female,48,168,28,4,14,1,6,9,70,3,No,No,Yes,(sinusitis),No,No,No,No,No,No,No,No,No,No
+Go Vap District,A year ago,No,Yes,Female,56,157,47,2,7,0,6,8,35,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Tan Binh District,6 months ago,No,Yes,Female,57,167,49,2,7,0,7,7,40,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Binh Thanh District,A year ago,Yes,No,Female,56,169,46,12,8,3,6,8,20,4,Yes,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 11,A year ago,No,Yes,Female,55,157,47,3,6,1,6,8,40,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 5,6 months ago,No,Yes,Female,158,156,46,2,7,0,6,8,36,3,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Tan Binh District,6 months ago,No,Yes,Male,65,170,30,3,14,1,7,8,14,2,Yes,No,No,,No,No,No,No,No,No,No,No,No,No
+District 7,6 months ago,No,Yes,Female,48,160000,32,2,3,1,4,8,9,3,No,No,No,,No,No,No,No,No,No,No,No,Yes,Yes
+Thu Duc District,6 months ago,Yes,Yes,Female,60,165,38,5,10,0,7,8,16,3,No,Yes,No,,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+Thu Duc District,6 months ago,Yes,Yes,Male,65,169,48,5,8,4,9,8,15,3,Yes,Yes,No,,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Go Vap District,6 months ago,Yes,Yes,Female,48,155,33,4,7,0,4,5,16,1,Yes,Yes,Yes,(sinusitis),Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Binh Tan District,A year ago,Yes,No,Female,58,167,47,12,7,5,6,7,30,3,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,A year ago,Yes,No,Female,57,167,47,9,7,5,6,7,20,4,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Binh Thanh District,6 months ago,Yes,Yes,Female,46,158,32,5,7,0,0,7,22,1,Yes,Yes,Yes,"(asthma, cardiovascular)",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+Tan Phu District,6 months ago,Yes,No,Male,80,175,21,5,15,2,2,6,100,20,No,No,No,(digestion),Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+Go Vap District,A year ago,Yes,No,Male,60,173,46,13,6,4,6,7,20,4,Yes,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+District 11,6 months ago,Yes,Yes,Female,58,160,36,9,20,0,2,7,21,1,No,Yes,No,,No,No,No,No,No,No,Yes,No,No,No
+Binh Thanh District,A year ago,Yes,No,Female,53,165,45,11,8,4,6,8,32,3,Yes,No,Yes,(osteoarthritis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Tan Phu District,A year ago,Yes,No,Male,57,175,46,10,7,4,7,8,30,5,No,No,Yes,(stomach ulcers),Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Tan Phu District,6 months ago,Yes,No,Female,55,165,47,10,8,6,8,7,28,6,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Tan Binh District,A year ago,Yes,No,Female,56,164,47,9,7,4,6,8,42,5,Yes,No,Yes,(cardiovascular disease),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Tan Binh District,A year ago,Yes,No,Female,58,173,44,14,8,4,8,8,30,5,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Binh Thanh District,A year ago,Yes,No,Male,60,167,46,12,8,6,7,8,38,5,No,No,Yes,(arthritis),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Binh Tan District,A year ago,Yes,No,Female,54,163,47,14,7,6,6,8,30,6,No,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Tan Phu District,A year ago,Yes,No,Female,52,163,47,13,9,4,6,8,30,5,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+District 6,A year ago,Yes,Yes,Female,45,158,39,2,7,0,7,8,35,3,No,Yes,No,,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes
+District 8,6 months ago,Yes,Yes,Male,65,168,39,3,6,3,2,6,20,5,No,Yes,Yes,(insomnia),Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Binh Tan District,A year ago,Yes,No,Female,55,165,47,12,0.8,5,6,8,25,4,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Tan Phu District,A year ago,Yes,No,Female,56,164,46,13,8,6,6,8,30,4,Yes,Yes,No,,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Binh Thanh District,A year ago,Yes,No,Female,54,167,47,15,7,6,7,8,15,2,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Binh Tan District,A year ago,Yes,No,Female,54,165,46,12,5,3,6,8,13,2,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Thu Duc District,A year ago,Yes,No,Female,55,167,47,14,7,6,7,8,17,1,Yes,No,Yes,(bones and joints),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,A year ago,Yes,No,Female,56,169,47,13,7,5,6,8,13,1,Yes,No,Yes,(disc herniation),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 6,A year ago,Yes,Yes,Female,48,158,40,2,14,0,7,9,35,5,No,Yes,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Thu Duc District,A year ago,Yes,No,Female,53,165,46,12,7,4,8,8,17,3,Yes,No,Yes,(colitis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,A year ago,Yes,No,Male,57,167,45,13,8,5,8,8,16,2,Yes,No,Yes,(granular pharyngitis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,A year ago,Yes,No,Male,57,168,45,13,8,6,5,8,16,3,Yes,Yes,Yes,(stomach ulcers),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Thu Duc District,A year ago,Yes,No,Female,53,166,45,12,8,6,7,8,18,2,Yes,No,Yes,(arthritis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Go Vap District,A year ago,Yes,No,Female,55,167,46,15,8,6,7,8,15,2,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Go Vap District,A year ago,Yes,No,Male,55,170,45,12,7,6,8,8,16,3,Yes,Yes,Yes,(spinal degeneration),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Phu Nhuan District,A year ago,Yes,No,Female,50,165,26,14,8,8,7,8,16,3,Yes,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Phu Nhuan District,A year ago,Yes,No,Female,55,167,23,15,8,6,7,8,16,1,No,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Phu Nhuan District,A year ago,Yes,No,Male,57,170,24,14,9,5,6,8,17,2,Yes,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Phu Nhuan District,A year ago,Yes,No,Male,58,170,24,15,9,6,7,8,18,2,Yes,Yes,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+Phu Nhuan District,A year ago,Yes,No,Male,57,174,24,15,8,5,7,8,15,2,Yes,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Go Vap District,A year ago,Yes,No,Male,57,170,24,16,9,5,6,8,19,7,Yes,Yes,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Phu Nhuan District,A year ago,Yes,No,Male,57,178,24,10,7,5,6,8,10,3,Yes,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,173,23,13,7,6,8,7,7,0,No,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,59,177,23,14,6,3,7,8,16,1,No,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,60,24,14,9,4,7,8,16,1,No,No,No,,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,173,23,14,9,6,5,8,7,1,No,No,No,,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,23,174,24,15,8,5,6,8,17,2,No,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,177,24,15,8,6,7,8,18,5,No,No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,56,173,24,15,8,4,6,8,2,0,No,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,60,177,24,16,13,5,6,8,6,1,No,No,No,,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,55,175,25,16,12,4,8,8,17,2,No,No,No,,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,175,60,14,8,6,7,8,20,7,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,173,61,18,8,10,5,8,17,5,Yes,No,Yes,(arthritis),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,174,62,18,6,7,6,8,17,5,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Binh Tan District,6 months ago,Yes,Yes,Male,57,165,64,10,10,3,2,6,15,2,Yes,No,Not sure,,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+District 12,A year ago,Yes,No,Male,59,174,64,13,9,7,8,8,13,4,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,59,174,64,15,9,7,6,8,14,2,Yes,Yes,Yes,(osteoarthritis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,176,64,15,9,7,5,8,10,3,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,55,170,64,14,8,5,6,8,12,2,Yes,Yes,Yes,(stomach ulcers),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,175,64,15,7,6,7,8,16,3,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,173,64,10,6,6,6,8,15,1,No,No,Yes,(chronic granular pharyngitis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,177,62,11,7,8,5,8,13,3,Yes,Yes,Yes,(disc herniation),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,172,62,10,6,5,7,8,13,3,Yes,Yes,Yes,(high blood pressure),Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,173,64,12,8,5,6,8,2,1,Yes,Yes,Yes,(high blood pressure),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,175,64,12,8,6,7,8,16,1,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,174,64,11,6,5,7,8,14,2,Yes,Yes,Yes,(kidney stones),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,177,64,13,8,6,7,8,18,2,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,174,64,13,8,6,7,8,16,1,Yes,Yes,Yes,(osteoarthritis),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+District 12,A year ago,Yes,Yes,Male,57,173,64,13,7,5,6,8,14,1,Yes,Yes,Yes,(hypoglycemia),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 6,A year ago,No,Yes,Female,50,155,30,5,7,2,3,8,30,2,No,No,Yes,(goiter),No,No,No,No,No,No,No,No,No,
+District 12,A year ago,Yes,No,Male,57,175,60,14,8,6,7,8,20,7,Yes,No,Yes,(diabetes),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,58,173,61,18,8,10,5,8,17,5,Yes,No,Yes,(arthritis),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+District 12,A year ago,Yes,No,Male,57,174,62,18,6,7,6,8,17,5,Yes,Yes,Yes,(diabetes),Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Go Vap District,A year ago,No,Yes,Female,64,164,47,3,7,0,4,7,10,1,Yes,No,No,,Yes,No,No,No,No,No,No,No,No,No
+District 12,6 months ago,No,,Female,67,156,52,4,16,0,7,7,6,2,Yes,No,No,,No,No,No,No,No,No,No,No,No,No
+Thu Duc District,6 months ago,No,,Female,45,158,38,4,14,0,3,7,40,2,No,No,No,,No,No,No,No,No,No,No,No,No,No
+Go Vap District,A year ago,No,,Female,54,158,27,2,5,1,3,7,14,0,Yes,No,Yes,"(pneumonia, sinusitis)",No,No,No,No,No,No,Yes,No,No,No
+Binh Thanh District,A year ago,No,,Female,52,153,46,2,7,0,7,7,84,0.5,No,No,Yes,(cough),No,No,No,No,No,No,Yes,Yes,No,Yes
+Thu Duc District,A year ago,No,,Female,61,158,40,4,7,1,7,9,5,1,No,No,No,,No,No,No,No,No,No,No,No,No,No
+District 12,A year ago,No,,Male,59,163,65,1,7,1,6,6.5,50,1.5,No,No,Yes,(high blood pressure),No,No,No,No,No,No,No,No,No,No
+District 12,6 months ago,No,,Female,52,155,55,2,7,0,6,6.5,40,1,No,No,Yes,(heart disease),No,No,No,No,No,No,No,No,No,No
+Go Vap District,A year ago,No,,Male,75,176,54,4,12,2,6,7,49,1.5,No,No,Yes,(allergic rhinitis),No,No,No,No,No,No,No,No,No,No
